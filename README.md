@@ -1,9 +1,5 @@
 <h1 align="center" style="background:#BBB">Hi 👋, I'm David Dante Farfan</h1>
 <h3 align="center">A passionate FullStack Web developer from Argentina</h3>
-
-# 🌱 I’m currently learning 
-- **M.E.R.N.(mongodb express reactjs nodejs)** 
-- **F.Re.M.P.(flask reactjs mongodb python)**
                             
 # 📫 How to reach me
 - [https://www.linkedin.com/in/david-dante-farfan/](https://www.linkedin.com/in/david-dante-farfan/)
